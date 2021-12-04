@@ -1,3 +1,21 @@
+  
+  <div align="center">
+  <a href="#projeto">Projeto</a>  |
+  <a href="#tecnologias">Tecnologias</a>  |
+  <a href="#acesso"><span>Acesso</span></a> 
+</div>
+</br>  
+<img src="https://user-images.githubusercontent.com/29720117/144690644-25869608-74ca-4e34-b280-44df2cab4a2a.png"/>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    
+</p>
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
