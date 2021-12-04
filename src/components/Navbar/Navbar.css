@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+
+.Navbar{
+    position: fixed;
+    margin-top: 0px;
+}
+.fia{
+    width: 30px;
+    min-height: 0 auto ;
+}
+
+.logo{
+    width: 120px;
+    min-height: 0 auto ;
+}
+
+nav{
+    font-size: 0.8rem;
+    flex-wrap: wrap;
+    letter-spacing: 0.3px;
+    text-align: center;
+    justify-content: center;
+}
+
+.navBarRed{
+    margin: 10px 10px 10px 0px;
+}
+
+.buttonMenu{
+    padding: 20px 10px 20px 10px;
+}
+
+.menu1{
+    font-size: 0.8rem;
+    margin: 0px 10px 0px 0px;
+}

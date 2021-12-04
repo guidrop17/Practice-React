@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
+
+*{
+    background-image: "../assets/img/R.jpg";
+    font-family: "Titillium Web";
+}
+
+.Card{
+    width: 18rem;
+    background-color: #ffff;
+    position: relative;
+    
+}
+.Cards{
+    display: flex;
+    align-items: flex-end;
+    justify-content:center;
+    margin-top: 70px;
+    font-family: "Titillium Web";  
+}
+
+.Background{
+    height: 100% auto;
+    position: relative;
+    margin-top: -20px;
+}
+.Card2{
+    color:white;
+    width: 18rem;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    background-color: #38383f;
+}
+.Card1{
+    color:white;
+    width: 20rem;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #38383f;
+}
+.Card3{
+    color:white;
+    width: 18rem;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    background-color: #38383f;
+
+}
+
+.CardImg2{
+    position:relative ;
+    width: 300px;
+    margin: -240px 0px 0px -13px;
+    
+}
+.CardImg1{
+    position:relative ;
+    width: 350px;
+    margin: -280px 0px 0px -31px;
+}
+.CardImg3{
+    position:relative ;
+    width: 300px;
+    margin: -240px 0px 0px -13px;
+}
+
+.band2{
+    width: 1.5rem;
+}

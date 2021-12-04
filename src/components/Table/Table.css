@@ -1,0 +1,17 @@
+
+.name{
+    display: flex;
+    align-items:flex-start;
+  
+}
+.rectangle{
+    width: 1px;
+}
+.tag{
+    max-width: 4px;
+    max-height: 14px;
+    margin-top: -3.5px;
+}
+.Table{
+    margin-top: 15px;
+}
